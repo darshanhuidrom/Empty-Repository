@@ -1,0 +1,9 @@
+I have create this to test the linking of empty repository with local
+
+To do this
+
+1) git init
+2) you can add README.md. Just create by using echoc "# Empty Repository" >> README.md
+3) git add README.md
+4)git commit -m "first commit"
+5)
