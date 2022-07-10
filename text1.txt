@@ -6,4 +6,6 @@ To do this
 2) you can add README.md. Just create by using echoc "# Empty Repository" >> README.md
 3) git add README.md
 4)git commit -m "first commit"
-5)
+5)git remote add origin https:gsgsg.git
+6)git remote -v
+7git push origin master 
