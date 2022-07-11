@@ -8,4 +8,7 @@ To do this
 4)git commit -m "first commit"
 5)git remote add origin https:gsgsg.git
 6)git remote -v
-7git push origin master 
+7git push origin master
+
+
+Now im adding some text here. This text is going to merge from master branch to cdt branch. 
